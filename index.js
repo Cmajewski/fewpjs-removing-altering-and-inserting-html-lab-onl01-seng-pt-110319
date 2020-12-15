@@ -1,4 +1,4 @@
 // Write your code here!
 document.querySelector("main#main").remove();
 
-let header=document.createElement("h1")
+let newHeaderheader=document.createElement("h1")
